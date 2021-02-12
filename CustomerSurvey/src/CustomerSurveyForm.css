@@ -1,0 +1,77 @@
+input[type=text], select {
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width:100%
+  }
+
+  .leftside{
+    padding: 15px;
+    background-color: #adc4ad;
+    width: 200px;
+  }
+  
+  .rightside{
+    padding: 15px;
+    background-color: #adc4ad;
+    border-color: #adc4ad;
+    width: 400px;
+  }
+th, td {
+    padding: 15px;
+    border-color: #adc4ad;
+    background-color: #adc4ad;
+    width: 200px;
+  }
+
+  .customerID{
+    margin: 0 auto;
+  }
+.submit{
+  margin-left: 148px;
+  width: 100%;
+  background-color: white;
+}
+  .dropbtn {
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width:100%;
+  }
+  
+  .dropdown {
+    width:100%;
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    width:100%;
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgb(20, 16, 16);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #adc4ad}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: #ffffff;
+  }

@@ -1,0 +1,9 @@
+C:\Users\Gebruiker\Desktop\CustomerSurvey\CustomerSurveyCore\bin\Debug\CustomerSurveyCore.dll.config
+C:\Users\Gebruiker\Desktop\CustomerSurvey\CustomerSurveyCore\bin\Debug\CustomerSurveyCore.dll
+C:\Users\Gebruiker\Desktop\CustomerSurvey\CustomerSurveyCore\bin\Debug\CustomerSurveyCore.pdb
+C:\Users\Gebruiker\Desktop\CustomerSurvey\CustomerSurveyCore\bin\Debug\EntityFramework.dll
+C:\Users\Gebruiker\Desktop\CustomerSurvey\CustomerSurveyCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gebruiker\Desktop\CustomerSurvey\CustomerSurveyCore\bin\Debug\EntityFramework.xml
+C:\Users\Gebruiker\Desktop\CustomerSurvey\CustomerSurveyCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gebruiker\Desktop\CustomerSurvey\CustomerSurveyCore\obj\Debug\CustomerSurveyCore.dll
+C:\Users\Gebruiker\Desktop\CustomerSurvey\CustomerSurveyCore\obj\Debug\CustomerSurveyCore.pdb

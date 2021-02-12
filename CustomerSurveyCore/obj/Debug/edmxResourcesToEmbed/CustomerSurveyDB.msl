@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CustomerModelStoreContainer" CdmEntityContainer="CustomerEntities">
+    <EntitySetMapping Name="CustomerSurveyTables">
+      <EntityTypeMapping TypeName="CustomerModel.CustomerSurveyTable">
+        <MappingFragment StoreEntitySet="CustomerSurveyTable">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Drivinglicense" ColumnName="Drivinglicense" />
+          <ScalarProperty Name="Firstcar" ColumnName="Firstcar" />
+          <ScalarProperty Name="Drivetrain" ColumnName="Drivetrain" />
+          <ScalarProperty Name="Fuelemissions" ColumnName="Fuelemissions" />
+          <ScalarProperty Name="NoOfCar" ColumnName="NoOfCar" />
+          <ScalarProperty Name="CarName" ColumnName="CarName" />
+          <ScalarProperty Name="CarModel" ColumnName="CarModel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
